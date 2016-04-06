@@ -6,4 +6,4 @@ Extensive documentation is available from the concrete5 website at:
 
 http://documentation.concrete5.org/editors
 
-G> *concrete5 logo used with permission*
+I> *concrete5 logo used with permission*
