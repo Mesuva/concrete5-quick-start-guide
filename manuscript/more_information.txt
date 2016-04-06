@@ -5,7 +5,5 @@ This guide is intended to cover common editing tasks and is no way an exhaustive
 Extensive documentation is available from the concrete5 website at:
 
 http://documentation.concrete5.org/editors
-  
-  
-  
-*concrete5 logo used with permission*
+
+G> *concrete5 logo used with permission*
