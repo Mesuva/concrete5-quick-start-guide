@@ -43,5 +43,5 @@ Blocks can be copied to a 'clipboard' within concrete5, allowing them to be easi
 2. At the top of the panel, click the dropdown and select **Clipboard** from the options.
 3. Blocks within the clipboard will be displayed. Drag the block you wish to place into an editable area.
 
-{width=70%}
+{width=50%}
 ![The block panel drop down where the clipboard can be selected](images/clipboard.png) 
